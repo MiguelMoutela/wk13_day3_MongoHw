@@ -1,0 +1,12 @@
+Homework
+Read over the code we did today.
+
+Make a cheat sheet so that you have a template to work from.
+
+Make a very simple mongo database of your choosing.
+
+Serve up this data in an api.
+
+Remember to install the npm package mongodb
+Remember to start the server after the connection to mongodb is done.
+Make sure mongod is running (type mongo to see if you can connect to the database)
